@@ -1,1 +1,1 @@
-test.variable = "branch master"
+test.variable = "branch b"
